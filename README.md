@@ -1,5 +1,8 @@
 <html>
 <head>
+<meta>
+<meta name"keywords" content="2017hosts,wangchunming,githubhosts,怎么才能上google,怎么才能上谷歌,怎么才能用googleplay,googleplay打不开,能看youtube的hosts,能上谷歌的hosts,googlehosts">
+</meta>
 </head?
 <body>
 <p>首先先谢谢各位一直以来的支持，不过很遗憾，这里的hosts要暂停更新了，在未来的2018年，这里名字不会变。</p>
